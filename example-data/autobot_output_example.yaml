@@ -1,0 +1,170 @@
+annealing_atmosphere: ambient
+annealing_humidity: 14.8
+creation_time: '2026-07-01T12:11:57.374189-07:00'
+instrument_name: SpinBot
+measurement: spin_run
+project_id: ''
+run_id: 0tjn7m45qxzqk000gp2c4m4mag
+samples:
+- annealing_duration: 600
+  base_heater_temperature: 120
+  batch_id: 0tjn7jf4qdrfd000rn5jn6284c
+  batch_name: TRAY0001
+  heater_position: A
+  heater_pv_temp: 82.731201171875
+  heater_sv_temp: 80.0
+  precursor_solution_name: PS0001
+  precursor_solution_position: 1
+  sample_description: ''
+  sample_id: 0tjn7k6zy1rdx0016tvbmw6qn8
+  sample_name: TF006097
+  solution_number: 1
+  solution_volume: 40
+  spin_acceleration: 1000
+  spin_duration: 30
+  spin_speed: 5000
+  tray_position: 1
+- annealing_duration: 600
+  base_heater_temperature: 120
+  batch_id: 0tjn7jf4qdrfd000rn5jn6284c
+  batch_name: TRAY0001
+  heater_position: B
+  heater_pv_temp: 98.78485107421875
+  heater_sv_temp: 100.0
+  precursor_solution_name: PS0001
+  precursor_solution_position: 1
+  sample_description: ''
+  sample_id: 0tjn7k6zy1rdx002tzaspgfv6c
+  sample_name: TF006098
+  solution_number: 1
+  solution_volume: 40
+  spin_acceleration: 1000
+  spin_duration: 30
+  spin_speed: 5000
+  tray_position: 2
+- annealing_duration: 600
+  base_heater_temperature: 120
+  batch_id: 0tjn7jf4qdrfd000rn5jn6284c
+  batch_name: TRAY0001
+  heater_position: C
+  heater_pv_temp: 139.7387237548828
+  heater_sv_temp: 140.0
+  precursor_solution_name: PS0001
+  precursor_solution_position: 1
+  sample_description: ''
+  sample_id: 0tjn7k6zy1rdx0032ptzn5w874
+  sample_name: TF006099
+  solution_number: 1
+  solution_volume: 40
+  spin_acceleration: 1000
+  spin_duration: 30
+  spin_speed: 5000
+  tray_position: 3
+- annealing_duration: 600
+  base_heater_temperature: 120
+  batch_id: 0tjn7jf4qdrfd000rn5jn6284c
+  batch_name: TRAY0001
+  heater_position: D
+  heater_pv_temp: 121.42891693115234
+  heater_sv_temp: 120.0
+  precursor_solution_name: PS0001
+  precursor_solution_position: 1
+  sample_description: ''
+  sample_id: 0tjn7k6zy1rdx0043g3b12n09c
+  sample_name: TF006100
+  solution_number: 1
+  solution_volume: 40
+  spin_acceleration: 1000
+  spin_duration: 30
+  spin_speed: 5000
+  tray_position: 4
+- annealing_duration: 600
+  base_heater_temperature: 120
+  batch_id: 0tjn7jf4qdrfd000rn5jn6284c
+  batch_name: TRAY0001
+  heater_position: E
+  heater_pv_temp: 78.41502380371094
+  heater_sv_temp: 80.0
+  precursor_solution_name: PS0001
+  precursor_solution_position: 1
+  sample_description: ''
+  sample_id: 0tjn7k6zy1rdx0055xdnk566qm
+  sample_name: TF006101
+  solution_number: 1
+  solution_volume: 40
+  spin_acceleration: 1000
+  spin_duration: 30
+  spin_speed: 5000
+  tray_position: 5
+- annealing_duration: 600
+  base_heater_temperature: 120
+  batch_id: 0tjn7jf4qdrfd000rn5jn6284c
+  batch_name: TRAY0001
+  heater_position: F
+  heater_pv_temp: 99.64702606201172
+  heater_sv_temp: 100.0
+  precursor_solution_name: PS0001
+  precursor_solution_position: 1
+  sample_description: ''
+  sample_id: 0tjn7k6zy1rdx006zn80akpebg
+  sample_name: TF006102
+  solution_number: 1
+  solution_volume: 40
+  spin_acceleration: 1000
+  spin_duration: 30
+  spin_speed: 5000
+  tray_position: 6
+- annealing_duration: 600
+  base_heater_temperature: 120
+  batch_id: 0tjn7jf4qdrfd000rn5jn6284c
+  batch_name: TRAY0001
+  heater_position: G
+  heater_pv_temp: 139.6581573486328
+  heater_sv_temp: 140.0
+  precursor_solution_name: PS0001
+  precursor_solution_position: 1
+  sample_description: ''
+  sample_id: 0tjn7k6zy1rdx007kjgtrqsgvm
+  sample_name: TF006103
+  solution_number: 1
+  solution_volume: 40
+  spin_acceleration: 1000
+  spin_duration: 30
+  spin_speed: 5000
+  tray_position: 7
+- annealing_duration: 600
+  base_heater_temperature: 120
+  batch_id: 0tjn7jf4qdrfd000rn5jn6284c
+  batch_name: TRAY0001
+  heater_position: H
+  heater_pv_temp: 118.66020965576172
+  heater_sv_temp: 120.0
+  precursor_solution_name: PS0001
+  precursor_solution_position: 1
+  sample_description: ''
+  sample_id: 0tjn7k6zy1rdx0082qgmfm11gm
+  sample_name: TF006104
+  solution_number: 1
+  solution_volume: 40
+  spin_acceleration: 1000
+  spin_duration: 30
+  spin_speed: 5000
+  tray_position: 8
+session_name: null
+spin_atmosphere: ambient
+spin_humidity: 15.26
+spin_recipe_yaml: C:/Users/lab/Desktop/Spinbot_troubleshoot 20250908/Config/10k/20260701_SCA52_1Carrier_wwopmma_1psOnly.yaml
+substrate: Sciprios-ITO
+substrate_cleaning: Acetone_IPA
+substrate_cleaning_operator: Madeline
+substrate_cleaning_timestamp: '2026-05-15'
+substrate_preparation: UV-Ozone
+substrate_preparation_timestamp: 2026-06-30T18:35
+substrate_scribed: ''
+tags:
+- list
+- tags
+- separated
+- by
+- commas (optional)
+user_orcid: ''

@@ -1,0 +1,257 @@
+carrier_1:
+  step_1:
+    Process: Spin Coating
+    Substrate_1:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 120
+      Annealing Time (s): 600
+      Discard Pipettes: true
+      Dispense-Spin/Blade Delay (s): 3.0
+      Liquid Class Index Aspiration: 82
+      Liquid Class Index Dispensing: 82
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: true
+      Solution Number: 1
+      Solution Volume (uL): 40
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 30
+      Spin Velocity (rpm): 5000
+      Spincoater Number: 2
+      Tip Type: 300 µL
+    Substrate_2:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 120
+      Annealing Time (s): 600
+      Discard Pipettes: true
+      Dispense-Spin/Blade Delay (s): 3.0
+      Liquid Class Index Aspiration: 82
+      Liquid Class Index Dispensing: 82
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: true
+      Solution Number: 1
+      Solution Volume (uL): 40
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 30
+      Spin Velocity (rpm): 5000
+      Spincoater Number: 2
+      Tip Type: 300 µL
+    Substrate_3:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 120
+      Annealing Time (s): 600
+      Discard Pipettes: true
+      Dispense-Spin/Blade Delay (s): 3.0
+      Liquid Class Index Aspiration: 82
+      Liquid Class Index Dispensing: 82
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: true
+      Solution Number: 1
+      Solution Volume (uL): 40
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 30
+      Spin Velocity (rpm): 5000
+      Spincoater Number: 2
+      Tip Type: 300 µL
+    Substrate_4:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 120
+      Annealing Time (s): 600
+      Discard Pipettes: true
+      Dispense-Spin/Blade Delay (s): 3.0
+      Liquid Class Index Aspiration: 82
+      Liquid Class Index Dispensing: 82
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: true
+      Solution Number: 1
+      Solution Volume (uL): 40
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 30
+      Spin Velocity (rpm): 5000
+      Spincoater Number: 2
+      Tip Type: 300 µL
+    Substrate_5:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 120
+      Annealing Time (s): 600
+      Discard Pipettes: true
+      Dispense-Spin/Blade Delay (s): 3.0
+      Liquid Class Index Aspiration: 82
+      Liquid Class Index Dispensing: 82
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: true
+      Solution Number: 1
+      Solution Volume (uL): 40
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 30
+      Spin Velocity (rpm): 5000
+      Spincoater Number: 2
+      Tip Type: 300 µL
+    Substrate_6:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 120
+      Annealing Time (s): 600
+      Discard Pipettes: true
+      Dispense-Spin/Blade Delay (s): 3.0
+      Liquid Class Index Aspiration: 82
+      Liquid Class Index Dispensing: 82
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: true
+      Solution Number: 1
+      Solution Volume (uL): 40
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 30
+      Spin Velocity (rpm): 5000
+      Spincoater Number: 2
+      Tip Type: 300 µL
+    Substrate_7:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 120
+      Annealing Time (s): 600
+      Discard Pipettes: true
+      Dispense-Spin/Blade Delay (s): 3.0
+      Liquid Class Index Aspiration: 82
+      Liquid Class Index Dispensing: 82
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: true
+      Solution Number: 1
+      Solution Volume (uL): 40
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 30
+      Spin Velocity (rpm): 5000
+      Spincoater Number: 2
+      Tip Type: 300 µL
+    Substrate_8:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 120
+      Annealing Time (s): 600
+      Discard Pipettes: true
+      Dispense-Spin/Blade Delay (s): 3.0
+      Liquid Class Index Aspiration: 82
+      Liquid Class Index Dispensing: 82
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: true
+      Solution Number: 1
+      Solution Volume (uL): 40
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 30
+      Spin Velocity (rpm): 5000
+      Spincoater Number: 2
+      Tip Type: 300 µL
+  step_2:
+    Process: Whirl Spin Coating
+    Substrate_1:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 80
+      Annealing Time (s): 10
+      Arm Speed While Dispending (0-100%): 0
+      Discard Pipettes: true
+      Dispense range (mm): 0
+      Dispense-Spin/Blade Delay (s): 3.0
+      Initial Spin Velocity (Before Dispensing) (rpm): 3000
+      Liquid Class Index Aspiration: 83
+      Liquid Class Index Dispensing: 83
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: false
+      Solution Number: 14
+      Solution Volume (uL): 50
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 33
+      Spin Velocity (rpm): 3000
+      Spincoater Number: 1
+      Tip Type: 300 µL
+    Substrate_2:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 80
+      Annealing Time (s): 10
+      Arm Speed While Dispending (0-100%): 0
+      Discard Pipettes: true
+      Dispense range (mm): 0
+      Dispense-Spin/Blade Delay (s): 3.0
+      Initial Spin Velocity (Before Dispensing) (rpm): 3000
+      Liquid Class Index Aspiration: 83
+      Liquid Class Index Dispensing: 83
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: false
+      Solution Number: 14
+      Solution Volume (uL): 50
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 33
+      Spin Velocity (rpm): 3000
+      Spincoater Number: 1
+      Tip Type: 300 µL
+    Substrate_3:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 80
+      Annealing Time (s): 10
+      Arm Speed While Dispending (0-100%): 0
+      Discard Pipettes: true
+      Dispense range (mm): 0
+      Dispense-Spin/Blade Delay (s): 3.0
+      Initial Spin Velocity (Before Dispensing) (rpm): 3000
+      Liquid Class Index Aspiration: 83
+      Liquid Class Index Dispensing: 83
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: false
+      Solution Number: 14
+      Solution Volume (uL): 50
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 33
+      Spin Velocity (rpm): 3000
+      Spincoater Number: 1
+      Tip Type: 300 µL
+    Substrate_4:
+      Annealing Station Number: 1
+      Annealing Temperature (°C): 80
+      Annealing Time (s): 10
+      Arm Speed While Dispending (0-100%): 0
+      Discard Pipettes: true
+      Dispense range (mm): 0
+      Dispense-Spin/Blade Delay (s): 3.0
+      Initial Spin Velocity (Before Dispensing) (rpm): 3000
+      Liquid Class Index Aspiration: 83
+      Liquid Class Index Dispensing: 83
+      Mixing Cycles Aspiration (0-9): 0
+      Pipette Dispensing Height Above Substrate (mm): 1.5
+      Pipette Rack Number: 1
+      Put on Hotplate: false
+      Solution Number: 14
+      Solution Volume (uL): 50
+      Solvent Station Number: 2
+      Spin Acceleration (rpm/s): 1000
+      Spin Time (s): 33
+      Spin Velocity (rpm): 3000
+      Spincoater Number: 1
+      Tip Type: 300 µL
