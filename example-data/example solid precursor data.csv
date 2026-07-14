@@ -1,0 +1,3 @@
+SolidPrecursorID,OperatorName,TimeStamp,Notes,CAS,RFID,Name,SMILES,Abbrev,Vendor,OpenedTimestamp,StorageLocation
+SP0001,,20251020,NaN,NaN,NaN,methylammonium iodide,C[NH3+].[I-],MAI,Homemade,20251020,6207 Bench
+SP0002,,20251020,NaN,10101-63-0,NaN,lead(II) iodide,I[Pb]I,PbI2,Sigma-Aldrich,20251020,6207 Bench
